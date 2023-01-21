@@ -1,51 +1,123 @@
-<h1 align="center">Hi 👋, I'm Yash Dewasthale</h1>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!-- <img align=right src="https://github.com/FrancescoXX/FrancescoXX/blob/main/devcard.svg" width="200" alt="Francesco's Dev Card"/> -->
+<div align=center>
+<!-- <a href="https://www.tiktok.com/@francesco.ciulla"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/tiktok-5962992_1280.webp" title="TikTok" alt="TikTok Account" width="38"/></a>  -->
+<a href="https://twitter.com/dew_yashtwt"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
+&ensp;
+<a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="60"/></a> 
+&ensp;<a href="https://www.youtube.com/c/FrancescoCiulla"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
+&ensp;<a href="https://discord.com/invite/cRjhjFRRre"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a> 
+&ensp;<a href="https://www.linkedin.com/in/francesco-ciulla-roma/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
+&ensp;<a href="https://www.instagram.com/francescociullaroma"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
+&ensp;<a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
+<!-- &ensp;<a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a> -->
+&ensp;<a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
 </div>
-<h3 align="center">A passionate Data Scientist and Data Engineer from India</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yashdev9274&label=Profile%20views&color=0e75b6&style=flat" alt="yashdev9274" /> </p>
+<table><tr><td valign="top" width="75%">
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashdev9274" alt="yashdev9274" /></a> </p>
+## 👋 Hi, I Am Yash Dewasthale
 
-<p align="center"> <a href="https://twitter.com/yash_dewasthale" target="blank"><img src="https://img.shields.io/twitter/follow/yash_dewasthale?logo=twitter&style=for-the-badge" alt="yash_dewasthale" /></a> </p>
+- I am a Data Scientist - Data Engineer interested in Web3 and DevRel.
+- I currently work as a Data Science Freelancer on Upwork 
+<!-- - [Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021 -->
+<!-- - I have interviewed 185+ Developers on my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg).  -->
+- I am a Community member at [EddieHub](https://www.eddiehub.org/) 
+- I have Co-founded [BuildersChain](https://discord.com/invite/cRjhjFRRre) a community focused on Open-Source, Web3 Development and Data Science and Cloud filed.
+ 
+</td><td valign="top" width="25%">
 
-<p align="center">- 🔭 I’m currently working on [Free Web3 Resources by FrancescoCiulla](https://github.com/FrancescoXX/free-Web3-resources)</p>
+## 🖥️ Fav Tech Stack
 
-<h3 align="center">Blogs Posts</h3>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- Docker
+- Kubernetes
+- MySQL
+- Node.js
+- MongoDb
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/yashdev9274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yashdev9274" height="30" width="40" /></a>
-<a href="https://twitter.com/yash_dewasthale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yash_dewasthale" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yash-dewasthale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-dewasthale" height="30" width="40" /></a>
-<a href="https://kaggle.com/yash dewasthale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yash dewasthale" height="30" width="40" /></a>
-<a href="https://instagram.com/progradecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="progradecode" height="30" width="40" /></a>
-<a href="https://hashnode.com/@yashdev9274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yashdev9274" height="30" width="40" /></a>
-<a href="https://medium.com/@yashdev9274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yashdev9274" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yashdewasthale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashdewasthale" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@yashdewasthale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yashdewasthale" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_9274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_9274" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/yash dewasthale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="yash dewasthale" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yashdewasthale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashdewasthale" height="30" width="40" /></a>
-<a href="https://discord.gg/#0154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0154" height="30" width="40" /></a>
-</p>
+  
+</tr></tr></table> 
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
+<img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/lr4rm1p2pcezmxqs5dqk.png" title="Next.js Logo" alt="Next.js Grafana Logo" width="150"/>&emsp; -->
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/yashdev9274"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yashdev9274" /></a></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashdev9274&show_icons=true&locale=en&layout=compact" alt="yashdev9274" /></p>
+<!-- # Hi 👋, I Am Francesco
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashdev9274&show_icons=true&locale=en" alt="yashdev9274" /></p>
+I am a Computer Scientist interested in **Web3.**
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdev9274&" alt="yashdev9274" /></p>
+I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the European Space Agency 🛰.
+
+[Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021, I have been the host for the Official Docker All-Hands in September 2021, and guest on the official [Docker Youtube channel](https://youtu.be/QFl0EFGr5e4).
+
+I have interviewed 180+ Developers in my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
+
+Currently Developer Advocate at [daily.dev](https://daily.dev) 
+
+I have created a [Cool Community of Content Creators](https://discord.com/invite/cRjhjFRRre) to help each other and stand out in the world of content creation.
+
+Sign up to my [Newsletter](https://www.getrevue.co/profile/francescociull4) to stay up-to-date with important upcoming events -->
+
+
+
+<a href="https://twitter.com/FrancescoCiull4"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FrancescoCiull4?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a><a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
+<a href="https://www.twitch.tv/francesco_ciulla"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/francesco_ciulla?style=for-the-badge&logo=twitch&color=8a43f2">&nbsp;
+
+
+<!-- ## 🥞 Tech Stack
+ 
+I work with many different technologies and languages. 
+My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
+ 
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
+<img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/lr4rm1p2pcezmxqs5dqk.png" title="Next.js Logo" alt="Next.js Grafana Logo" width="150"/>&emsp;
+
+ <br> -->
+ 
+ <table><tr><td valign="top" width="50%">
+
+## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
+ 
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to learn UI/UX | George Moller](https://www.youtube.com/watch?v=dtjfWSf7IcA)
+- [What is DevRel ?  | Hassan El Mghari - Senior Developer Advocate at Vercel](https://www.youtube.com/watch?v=b7psn3_kPsA)
+- [What is Ownership?](https://www.youtube.com/watch?v=XJr3TJZIQEk)
+- [How I got a RAISE as a Developer Advocate](https://www.youtube.com/watch?v=vI6bQJ463Sc)
+- [Which is the best Blockchain to start with? #shorts #blockchain](https://www.youtube.com/watch?v=SEDERWK2EiE)
+<!-- YOUTUBE-VIDEOS-LIST:END --> 
+ 
+</td><td valign="top" width="50%">
+
+## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
+ <!-- DEVTO-BLOG-LIST:START -->
+- [CHAT-GPT changes everything](https://dev.to/francescoxx/chat-gpt-changes-everything-5487)
+- [What is Rust?](https://dev.to/francescoxx/what-is-rust-2ii6)
+- [Solidity Hello world](https://dev.to/francescoxx/solidity-hello-world-2m08)
+- [How to Learn Web3 &lpar;December 2022&rpar;](https://dev.to/francescoxx/how-to-learn-web3-september-2022-3h9h)
+- [Eddie Jaoude&#39;s Podcast Notes](https://dev.to/francescoxx/eddie-jaoudes-podcast-notes-2n3g)
+<!-- DEVTO-BLOG-LIST:END -->
+
+</td></tr></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
