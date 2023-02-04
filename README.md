@@ -106,13 +106,22 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 </td></tr></table>
 
 
+### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:STARTS -->
+<p align="left">
+<a href="https://yashdev9274.hashnode.dev/the-power-of-community-how-collaboration-and-open-source-helped-me-thrive" title="The Power of Community: How Collaboration and Open Source Helped Me Thrive"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672491858109/3af8a868-05de-4732-9f9f-d45a44f83e94.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="How collaboration helped me find my passion" width="250px" align="left" /></a>
+<a href="https://yashdev9274.hashnode.dev/the-power-of-community-how-collaboration-and-open-source-helped-me-thrive" title="https://yashdev9274.hashnode.dev/the-power-of-community-how-collaboration-and-open-source-helped-me-thrive"><strong>How collaboration helped me find my passion</strong></a>
+<br/> Open source and collaboration have played a significant role in the growth and development of my journey. Open source refers to the practice of sharing and collaborating on the development of software and other digital products, with the source code freely available for anyone to use, modify, and distribute.  </p> <br/> <br/>
+
+
+<p align="left">
+<a href="https://yashdev9274.hashnode.dev/navigating-the-complexities-of-ai-and-ml" title="TNavigating the Complexities of AI and ML"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671199369234/eyD6bt3oG.jpg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Navigating the Complexities of AI and ML" width="250px" align="left" /></a>
+<a href="https://yashdev9274.hashnode.dev/navigating-the-complexities-of-ai-and-ml" title="Navigating the Complexities of AI and ML"><strong>How collaboration helped me find my passion</strong></a>
+<br/> Open source and collaboration have played a significant role in the growth and development of my journey. Open source refers to the practice of sharing and collaborating on the development of software and other digital products, with the source code freely available for anyone to use, modify, and distribute.  </p> <br/> <br/>
 
 
 
-
-
-
-
+<!-- HASHNODE_BLOG:ENDS -->
 
 
 
