@@ -20,8 +20,7 @@
 
 - I am a Data Scientist - Data Engineer interested in Web3 and DevRel.
 - I currently work as a Data Science Freelancer on Upwork 
-<!-- - [Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021 -->
-<!-- - I have interviewed 185+ Developers on my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg).  -->
+- I building [BuildersChain](https://github.com/BuildersChain) community.
 - I am a Community member at [EddieHub](https://www.eddiehub.org/) 
 - I have Co-founded [BuildersChain](https://discord.com/invite/cRjhjFRRre) a community focused on Open-Source, Web3 Development and Data Science and Cloud filed.
  
@@ -29,6 +28,7 @@
 
 ## 🖥️ Fav Tech Stack
 
+- Data Science
 - Docker
 - Kubernetes
 - MySQL
@@ -85,22 +85,22 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [How to learn UI/UX | George Moller](https://www.youtube.com/watch?v=dtjfWSf7IcA)
-- [What is DevRel ?  | Hassan El Mghari - Senior Developer Advocate at Vercel](https://www.youtube.com/watch?v=b7psn3_kPsA)
+- [What are Activation Functions in Neural Network]()
+<!-- - [What is DevRel ?  | Hassan El Mghari - Senior Developer Advocate at Vercel](https://www.youtube.com/watch?v=b7psn3_kPsA)
 - [What is Ownership?](https://www.youtube.com/watch?v=XJr3TJZIQEk)
 - [How I got a RAISE as a Developer Advocate](https://www.youtube.com/watch?v=vI6bQJ463Sc)
-- [Which is the best Blockchain to start with? #shorts #blockchain](https://www.youtube.com/watch?v=SEDERWK2EiE)
+- [Which is the best Blockchain to start with? #shorts #blockchain](https://www.youtube.com/watch?v=SEDERWK2EiE) -->
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
-- [CHAT-GPT changes everything](https://dev.to/francescoxx/chat-gpt-changes-everything-5487)
+<!-- - [CHAT-GPT changes everything](https://dev.to/francescoxx/chat-gpt-changes-everything-5487)
 - [What is Rust?](https://dev.to/francescoxx/what-is-rust-2ii6)
 - [Solidity Hello world](https://dev.to/francescoxx/solidity-hello-world-2m08)
 - [How to Learn Web3 &lpar;December 2022&rpar;](https://dev.to/francescoxx/how-to-learn-web3-september-2022-3h9h)
-- [Eddie Jaoude&#39;s Podcast Notes](https://dev.to/francescoxx/eddie-jaoudes-podcast-notes-2n3g)
+- [Eddie Jaoude&#39;s Podcast Notes](https://dev.to/francescoxx/eddie-jaoudes-podcast-notes-2n3g) -->
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
