@@ -127,7 +127,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 "><strong>What are Blockchain Bridges?</strong></a>
 <br/> Open source and collaboration have played a significant role in the growth and development of my journey. Open source refers to the practice of sharing and collaborating on the development of software and other digital products, with the source code freely available for anyone to use, modify, and distribute.  </p> <br/> <br/>
 
-
+<!-- <p align="center"><a href="https://yashdev9274.hashnode.dev/"><img src="https://user-images.githubusercontent.com/51878265/210104338-3ffcc1b8-c966-405b-8958-7ece2e122723.png"></a></p> -->
 
 <!-- HASHNODE_BLOG:ENDS -->
 
