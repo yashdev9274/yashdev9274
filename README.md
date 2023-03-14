@@ -108,6 +108,15 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:STARTS -->
+
+<p align="left">
+<a href="https://yashdev9274.hashnode.dev/erc-20-token-the-key-to-the-ethereum-ecosystem" title="ERC-20 Token: The Key To The Ethereum Ecosystem
+"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678078335191/b074810d-9abf-4c5c-992d-6c4259247adc.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Unlocking the Potential of ERC-20 Tokens:" width="250px" align="left" /></a>
+<a href="https://yashdev9274.hashnode.dev/erc-20-token-the-key-to-the-ethereum-ecosystem" title="https://yashdev9274.hashnode.dev/erc-20-token-the-key-to-the-ethereum-ecosystem"><strong>ERC-20 Token: The Key To The Ethereum Ecosystem
+</strong></a>
+<br/>  In this blog post, we will dive into the world of ERC-20 tokens and explore their role in the Ethereum network. We will go over what ERC-20 tokens are, and how they work. In addition, we will examine the ERC token standards as well as the most commonly used ERC-20 tokens. </p> <br/> <br/>
+
+
 <p align="left">
 <a href="https://yashdev9274.hashnode.dev/the-power-of-community-how-collaboration-and-open-source-helped-me-thrive" title="The Power of Community: How Collaboration and Open Source Helped Me Thrive"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672491858109/3af8a868-05de-4732-9f9f-d45a44f83e94.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="How collaboration helped me find my passion" width="250px" align="left" /></a>
 <a href="https://yashdev9274.hashnode.dev/the-power-of-community-how-collaboration-and-open-source-helped-me-thrive" title="https://yashdev9274.hashnode.dev/the-power-of-community-how-collaboration-and-open-source-helped-me-thrive"><strong>The Power of Community: How Collaboration and Open Source Helped Me Thrive</strong></a>
