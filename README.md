@@ -18,9 +18,9 @@
 
 ## 👋 Hi, I Am Yash Dewasthale
 
-- I am a Data Scientist - Data Engineer interested in Web3 and DevRel.
-- I currently work as a Data Science Freelancer on Upwork 
-- I building [BuildersChain](https://github.com/BuildersChain) community.
+- I am a WEB3 and Open-Source Advocte.
+- I am currently work as a Full-Stack Freelance Developer on Upwork 
+- I am building [BuildersChain](https://github.com/BuildersChain) community.
 - I am a Community member at [EddieHub](https://www.eddiehub.org/) 
 - I have Co-founded [BuildersChain](https://discord.com/invite/cRjhjFRRre) a community focused on Open-Source, Web3 Development and Data Science and Cloud filed.
  
@@ -28,7 +28,8 @@
 
 ## 🖥️ Fav Tech Stack
 
-- Data Science
+- Full-Stack Developement
+- Web3
 - Docker
 - Kubernetes
 - MySQL
