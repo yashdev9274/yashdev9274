@@ -130,14 +130,14 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-kaiwalyakoparkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/yash-dewasthale/)
-[![Instagram Badge](https://img.shields.io/badge/-kaiwalya.koparkar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)]()
-[![Hashnode Badge](https://img.shields.io/badge/-@kaiwalyakoparkar-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://kaiwalyakoparkar.hashnode.dev/)](https://kaiwalyakoparkar.hashnode.dev/)
-[![Gmail Badge](https://img.shields.io/badge/-kaiwalyakoparkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:yashdev.yvd@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://yashdewasthaledev.notion.site/8debc94bdd254712a7ac3788a2ce0b1e)
+[![Linkedin Badge](https://img.shields.io/badge/-yashdewasthale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashdev9274/)](https://www.linkedin.com/in/yash-dewasthale/)
+[![Instagram Badge](https://img.shields.io/badge/-yashdewasthale-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/yashdewasthale/)]()
+[![Hashnode Badge](https://img.shields.io/badge/-@yashdev9274-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://yashdev9274.hashnode.dev/)](https://yashdev9274.hashnode.dev/)
+[![Gmail Badge](https://img.shields.io/badge/-yashdev9274@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashdev9274@gmail.com)](mailto:yashdev.yvd@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://yashdev9274.github.io/)](https://yashdewasthaledev.notion.site/8debc94bdd254712a7ac3788a2ce0b1e)
 [![Youtube Badge](https://img.shields.io/badge/-Kaiwalya%20Koparkar-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZow8pOHiyz26yl4Da-Mfzw)](https://www.youtube.com/channel/UCZow8pOHiyz26yl4Da-Mfzw)
 
-[![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kaiwalyakoparkar&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yashdev9274&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies
 
