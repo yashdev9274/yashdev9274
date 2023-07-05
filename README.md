@@ -23,6 +23,19 @@
 - I am building [BuildersChain](https://github.com/BuildersChain) community.
 - I am a Community member at [EddieHub](https://www.eddiehub.org/) 
 - I have Co-founded [BuildersChain](https://discord.com/invite/cRjhjFRRre) a community focused on Open-Source, Web3 Development and Data Science and Cloud filed.
+
+Services I Offer as a Freelancer:
+
+1. Full-stack web development: Building dynamic and responsive web applications using the latest technologies and frameworks.
+
+2. Web3 development: Creating decentralized applications (dApps) and integrating blockchain technology into existing projects.
+
+3. Open-source advocacy: Contributing to and promoting open-source projects, fostering collaboration and innovation within the developer community.
+
+4. Technical writing: Crafting clear and concise documentation, tutorials, and articles to help developers understand complex concepts and technologies.
+
+5. Content creation: Developing engaging and informative content in various formats, such as blog posts, videos, and social media posts, to educate and inspire the tech community.
+
  
 </td><td valign="top" width="25%">
 
@@ -35,6 +48,15 @@
 - MySQL
 - Node.js
 - MongoDb
+- Open-source advocacy
+- Technical writing
+- Content creation
+- Solidity
+- JavaScript
+- Python
+- Front-end frameworks
+- Smart contracts
+- Blockchain integration
 
   
 </tr></tr></table> 
