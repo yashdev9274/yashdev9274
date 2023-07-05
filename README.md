@@ -39,7 +39,7 @@ Services I Offer as a Freelancer:
  
 </td><td valign="top" width="25%">
 
-## 🖥️ Fav Tech Stack
+## 🖥️ My Tech Stack
 
 - Full-Stack Developement
 - Web3
@@ -134,7 +134,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 [![Instagram Badge](https://img.shields.io/badge/-yashdewasthale-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/yashdewasthale/)]()
 [![Hashnode Badge](https://img.shields.io/badge/-@yashdev9274-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://yashdev9274.hashnode.dev/)](https://yashdev9274.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-yashdev9274@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashdev9274@gmail.com)](mailto:yashdev.yvd@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://yashdev9274.github.io/)](https://yashdewasthaledev.notion.site/8debc94bdd254712a7ac3788a2ce0b1e)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://yashdev9274.github.io/)](https://shorturl.at/nvxMS)
 [![Youtube Badge](https://img.shields.io/badge/-YashDewasthale-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZow8pOHiyz26yl4Da-Mfzw)]() 
 
 
