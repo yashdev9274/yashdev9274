@@ -11,7 +11,7 @@
 </div>
 
 
-<table><tr><td valign="top" width="75%">
+<table><tr><td valign="top" width="80%">
 
 ## 👋 Hi, I Am Yash Dewasthale
 
