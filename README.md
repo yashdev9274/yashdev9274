@@ -15,102 +15,34 @@
 
 ## 👋 Hi, I Am Yash Dewasthale
 
-- I am a WEB3 and Open-Source Advocte.
-- I am currently work as a Full-Stack Freelance Developer on Upwork 
-- I am building [BuildersChain](https://github.com/BuildersChain) community.
-- I am a Community member at [EddieHub](https://www.eddiehub.org/) 
-- I have Co-founded [BuildersChain](https://discord.com/invite/cRjhjFRRre) a community focused on Open-Source, Web3 Development and Data Science and Cloud filed.
-
-Services I Offer as a Freelancer:
-
-1. Full-stack web development: Building dynamic and responsive web applications using the latest technologies and frameworks.
-
-2. Web3 development: Creating decentralized applications (dApps) and integrating blockchain technology into existing projects.
-
-3. Open-source advocacy: Contributing to and promoting open-source projects, fostering collaboration and innovation within the developer community.
-
-4. Technical writing: Crafting clear and concise documentation, tutorials, and articles to help developers understand complex concepts and technologies.
-
-5. Content creation: Developing engaging and informative content in various formats, such as blog posts, videos, and social media posts, to educate and inspire the tech community.
+- I am a Full Stack Software Developer.
+- I am open to work.
+- I am currently work as a Freelance Developer. 
+- I create technical content on Twitte, Instagram, Youtube.
+- I write technical blogs & article on Hashnode and Medium 
 
  
 </td><td valign="top" width="25%">
 
 ## 🖥️ My Tech Stack
 
-- Full-Stack Developement
+- Javascript + Typescript
+- Nextjs
 - Web3
 - Docker
-- Kubernetes
-- MySQL
+- PostgreS
 - Node.js
 - MongoDb
-- Open-source advocacy
-- Technical writing
-- Content creation
 - Solidity
-- JavaScript
-- Python
-- Front-end frameworks
-- Smart contracts
-- Blockchain integration
 
   
-</tr></tr></table> 
-<!-- <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
-<img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/lr4rm1p2pcezmxqs5dqk.png" title="Next.js Logo" alt="Next.js Grafana Logo" width="150"/>&emsp; -->
 
-
-
-<!-- # Hi 👋, I Am Francesco
-
-I am a Computer Scientist interested in **Web3.**
-
-I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the European Space Agency 🛰.
-
-[Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021, I have been the host for the Official Docker All-Hands in September 2021, and guest on the official [Docker Youtube channel](https://youtu.be/QFl0EFGr5e4).
-
-I have interviewed 180+ Developers in my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
-
-Currently Developer Advocate at [daily.dev](https://daily.dev) 
-
-I have created a [Cool Community of Content Creators](https://discord.com/invite/cRjhjFRRre) to help each other and stand out in the world of content creation.
-
-Sign up to my [Newsletter](https://www.getrevue.co/profile/francescociull4) to stay up-to-date with important upcoming events -->
-
-
-
-<!-- <a href="https://twitter.com/dew_yashtwt"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FrancescoCiull4?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a><a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
-<a href="https://www.twitch.tv/francesco_ciulla"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/francesco_ciulla?style=for-the-badge&logo=twitch&color=8a43f2">&nbsp; -->
-
-
-<!-- ## 🥞 Tech Stack
- 
-I work with many different technologies and languages. 
-My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
- 
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
-<img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/lr4rm1p2pcezmxqs5dqk.png" title="Next.js Logo" alt="Next.js Grafana Logo" width="150"/>&emsp;
-
- <br> -->
  
  <table><tr><td valign="top" width="50%">
 
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [What are Activation Functions in Neural Network]()
-<!-- - [What is DevRel ?  | Hassan El Mghari - Senior Developer Advocate at Vercel](https://www.youtube.com/watch?v=b7psn3_kPsA)
-- [What is Ownership?](https://www.youtube.com/watch?v=XJr3TJZIQEk)
-- [How I got a RAISE as a Developer Advocate](https://www.youtube.com/watch?v=vI6bQJ463Sc)
-- [Which is the best Blockchain to start with? #shorts #blockchain](https://www.youtube.com/watch?v=SEDERWK2EiE) -->
-<!-- YOUTUBE-VIDEOS-LIST:END --> 
+
  
 </td><td valign="top" width="50%">
 
@@ -134,7 +66,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://yashdev9274.github.io/)](https://shorturl.at/nvxMS)
 [![Youtube Badge](https://img.shields.io/badge/-YashDewasthale-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZow8pOHiyz26yl4Da-Mfzw)]() 
 
-
+<!--
 ## ⚡ Technologies
 
 ### Language :
@@ -167,6 +99,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+-->
 
 ## 💰 Support
 <p>
@@ -200,7 +133,7 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 <a href="https://yashdev9274.hashnode.dev/the-power-of-community-how-collaboration-and-open-source-helped-me-thrive" title="https://yashdev9274.hashnode.dev/the-power-of-community-how-collaboration-and-open-source-helped-me-thrive"><strong>The Power of Community: How Collaboration and Open Source Helped Me Thrive</strong></a>
 <br/> Open source and collaboration have played a significant role in the growth and development of my journey. Open source refers to the practice of sharing and collaborating on the development of software and other digital products, with the source code freely available for anyone to use, modify, and distribute.  </p> <br/> <br/>
 
-
+<!--
 <p align="left">
 <a href="https://yashdev9274.hashnode.dev/navigating-the-complexities-of-ai-and-ml" title="Navigating the Complexities of AI and ML"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671199369234/eyD6bt3oG.jpg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Navigating the Complexities of AI and ML" width="250px" align="left" /></a>
 <a href="https://yashdev9274.hashnode.dev/navigating-the-complexities-of-ai-and-ml" title="Navigating the Complexities of AI and ML"><strong>Navigating the Complexities of AI and ML</strong></a>
@@ -215,6 +148,8 @@ My favorite ones are Docker, Kubernetes, Node.js, Grafana, Next.js and Vercel.
 <br/> Open source and collaboration have played a significant role in the growth and development of my journey. Open source refers to the practice of sharing and collaborating on the development of software and other digital products, with the source code freely available for anyone to use, modify, and distribute.  </p> <br/> <br/>
 
 <!-- <p align="center"><a href="https://yashdev9274.hashnode.dev/"><img src="https://user-images.githubusercontent.com/51878265/210104338-3ffcc1b8-c966-405b-8958-7ece2e122723.png"></a></p> -->
+
+-->
 
 <!-- HASHNODE_BLOG:ENDS -->
 
