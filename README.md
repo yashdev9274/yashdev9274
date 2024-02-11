@@ -37,7 +37,7 @@
 
   
 
- 
+ <!--
  <table><tr><td valign="top" width="50%">
 
 ## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
@@ -48,12 +48,15 @@
 
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
-- [Exploring the Ethereum Network: Fetching Account Balance with ethers.js](https://dev.to/yashdev9274/exploring-the-ethereum-network-fetching-account-balance-with-ethersjs-1eo0)
+- <!--[Exploring the Ethereum Network: Fetching Account Balance with ethers.js](https://dev.to/yashdev9274/exploring-the-ethereum-network-fetching-account-balance-with-ethersjs-1eo0)
 <!-- - [What is Rust?](https://dev.to/francescoxx/what-is-rust-2ii6)
 - [Solidity Hello world](https://dev.to/francescoxx/solidity-hello-world-2m08)
 - [How to Learn Web3 &lpar;December 2022&rpar;](https://dev.to/francescoxx/how-to-learn-web3-september-2022-3h9h)
 - [Eddie Jaoude&#39;s Podcast Notes](https://dev.to/francescoxx/eddie-jaoudes-podcast-notes-2n3g) -->
+
 <!-- DEVTO-BLOG-LIST:END -->
+
+
 
 </td></tr></table>
 
