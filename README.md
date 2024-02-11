@@ -22,7 +22,7 @@
 - I write technical blogs & article on Hashnode and Medium 
 
  
-</td><td valign="top" width="25%">
+</td><td valign="top" width="30%">
 
 ## 🖥️ My Tech Stack
 
