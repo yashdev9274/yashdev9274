@@ -13,7 +13,7 @@
 
 <table><tr><td valign="top" width="80%">
 
-## 👋 Hi, I Am Yash Dewasthale
+## 👋 Hi, I Am Yash 
 
 - I am a Full Stack Software Developer.
 - I am open to work.
