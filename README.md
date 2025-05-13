@@ -1,3 +1,4 @@
+<!--
 <div align=center>
 
 <a href="https://twitter.com/dew_yashtwt"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
@@ -9,19 +10,21 @@
 &ensp;<a href="https://dev.to/yashdev9274"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
 
 </div>
+-->
 
 
-<table><tr><td valign="top" width="80%">
+<!-- <table><tr><td valign="top" width="80%"> -->
 
 ## 👋 Hi, I Am Yash 
 
-- I am a Full Stack Software Developer.
-- I am open to work.
-- I am currently work as a Freelance Developer. 
-- I create technical content on Twitte, Instagram, Youtube.
-- I write technical blogs & article on Hashnode and Medium 
+Founder and Creator of [LaminarFlow](lamflo.xyz) .
 
- 
+I'm 22 yo Software Developer from India
+
+![LF](https://github.com/user-attachments/assets/8fafb704-1237-4e74-aac7-333e0d23c69a)
+
+
+<!--
 </td><td valign="top" width="30%">
 
 ## 🖥️ My Tech Stack
@@ -57,7 +60,7 @@
 <!-- DEVTO-BLOG-LIST:END -->
 
 
-
+<!--
 </td></tr></table>
 
 
@@ -104,6 +107,8 @@
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 -->
 
+<!--
+
 ## 💰 Support
 <p>
 <a href='https://ko-fi.com/O4O659E32' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
@@ -122,6 +127,8 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:STARTS -->
+
+<!--
 
 <p align="left">
 <a href="https://yashdev9274.hashnode.dev/erc-20-token-the-key-to-the-ethereum-ecosystem" title="ERC-20 Token: The Key To The Ethereum Ecosystem
@@ -152,7 +159,7 @@
 
 <!-- <p align="center"><a href="https://yashdev9274.hashnode.dev/"><img src="https://user-images.githubusercontent.com/51878265/210104338-3ffcc1b8-c966-405b-8958-7ece2e122723.png"></a></p> -->
 
--->
+
 
 <!-- HASHNODE_BLOG:ENDS -->
 
