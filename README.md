@@ -21,8 +21,9 @@ Founder and Creator of [LaminarFlow](lamflo.xyz) .
 
 I'm 22 yo Software Developer from India
 
-![LF](https://github.com/user-attachments/assets/8fafb704-1237-4e74-aac7-333e0d23c69a)
-
+<!--![LF](https://github.com/user-attachments/assets/8fafb704-1237-4e74-aac7-333e0d23c69a)
+-->
+![m6](https://github.com/user-attachments/assets/baeeaab2-5451-4fa8-8bb5-944ecbff97a4)
 
 <!--
 </td><td valign="top" width="30%">
