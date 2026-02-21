@@ -1,173 +1,107 @@
-<!--
-<div align=center>
+## 👋 Hi, I'm Yash
+**Founder & Builder** | 23 yo Software Developer from India
+Building tools that make developers more productive. 
 
-<a href="https://twitter.com/dew_yashtwt"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
-&ensp;
-&ensp;<a href="https://www.youtube.com/@theEtherTimes"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
-&ensp;<a href="https://discord.com/invite/cRjhjFRRre"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a> 
-&ensp;<a href="https://linkedin.com/in/yash-dewasthale"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
-&ensp;<a href="https://www.instagram.com/progradecode/"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
-&ensp;<a href="https://dev.to/yashdev9274"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
+Currently focused on AI-powered developer tools and open-source infrastructure.
+<!--![m6](https://github.com/user-attachments/assets/baeeaab2-5451-4fa8-8bb5-944ecbff97a4)-->
 
-</div>
--->
+<!--</td><td valign="top" width="30%">-->
 
+## 🛠️ Tech Stack
 
-<!-- <table><tr><td valign="top" width="80%"> -->
+- **Languages:** TypeScript, JavaScript, Rust, Python, GO
+- **Frontend:** Next.js, React, Tailwind CSS
+- **Backend:** Node.js, PostgreSQL, Prisma
+- **Tools:** Docker, Git, Turborepo, Pinecone
+---
+## 🚀 Recent Products and Work
 
-## 👋 Hi, I Am Yash 
+### [Supercode](https://github.com/yashdev9274/supercli)
 
-Founder and Creator of [LaminarFlow](lamflo.xyz) .
+**CLI AI Coding Agent for developers**
 
-I'm 22 yo Software Developer from India
+Work with superCli directly in your codebase. Build, debug, and ship from your terminal, IDE, Slack, or the web. Describe what you need, and superCli handles the rest.
 
-<!--![LF](https://github.com/user-attachments/assets/8fafb704-1237-4e74-aac7-333e0d23c69a)
--->
-![m6](https://github.com/user-attachments/assets/baeeaab2-5451-4fa8-8bb5-944ecbff97a4)
+`Next · TypeScript · PostgreSQL · Pinecone · ThinkingMachine · HuggingFace · Fine-Tuning · Better Auth`
 
-<!--
-</td><td valign="top" width="30%">
-
-## 🖥️ My Tech Stack
-
-- Javascript + Typescript
-- Nextjs
-- Web3
-- Docker
-- PostgreS
-- Node.js
-- MongoDb
-- Solidity
-
-  
-
- <!--
- <table><tr><td valign="top" width="50%">
-
-## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
- 
-
- 
-</td><td valign="top" width="50%">
-
-## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
- <!-- DEVTO-BLOG-LIST:START -->
-- <!--[Exploring the Ethereum Network: Fetching Account Balance with ethers.js](https://dev.to/yashdev9274/exploring-the-ethereum-network-fetching-account-balance-with-ethersjs-1eo0)
-<!-- - [What is Rust?](https://dev.to/francescoxx/what-is-rust-2ii6)
-- [Solidity Hello world](https://dev.to/francescoxx/solidity-hello-world-2m08)
-- [How to Learn Web3 &lpar;December 2022&rpar;](https://dev.to/francescoxx/how-to-learn-web3-september-2022-3h9h)
-- [Eddie Jaoude&#39;s Podcast Notes](https://dev.to/francescoxx/eddie-jaoudes-podcast-notes-2n3g) -->
-
-<!-- DEVTO-BLOG-LIST:END -->
+<img width="1712" height="858" alt="image" src="https://github.com/user-attachments/assets/10209e9c-8dc8-408c-9672-2b3ebd5bab7d" />
 
 
-<!--
-</td></tr></table>
+---
+### [LaminarFlow](https://github.com/yashdev9274/laminarflow)
+
+**AI-native Open-source Fintech Platform**
+A modern, powerful, and affordable platform to manage your business' financial workflow.
+
+`Next.js · TypeScript · Prisma · PostgreSQL · AI-powered`
+
+---
+### [Devdocs](https://github.com/yashdev9274/devdoc)
+
+**AI-native Open-source Documentation Platform**
+Build beautiful, fast, and modern documentation sites with ease. MDX-powered with a powerful CLI.
+
+`Next.js 14 · MDX · Contentlayer · Turborepo · Radix UI`
+
+<img width="1697" height="851" alt="image" src="https://github.com/user-attachments/assets/fcc0ee64-003e-4af9-ac6e-6809d97dcec0" />
 
 
+---
+### [AI Music Generator](https://github.com/yashdev9274/cosmic)
 
-[![Linkedin Badge](https://img.shields.io/badge/-yashdewasthale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashdev9274/)](https://www.linkedin.com/in/yash-dewasthale/)
-[![Instagram Badge](https://img.shields.io/badge/-yashdewasthale-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/yashdewasthale/)]()
-[![Hashnode Badge](https://img.shields.io/badge/-@yashdev9274-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://yashdev9274.hashnode.dev/)](https://yashdev9274.hashnode.dev/)
-[![Gmail Badge](https://img.shields.io/badge/-yashdev9274@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashdev9274@gmail.com)](mailto:yashdev.yvd@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://yashdev9274.github.io/)](https://shorturl.at/nvxMS)
-[![Youtube Badge](https://img.shields.io/badge/-YashDewasthale-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZow8pOHiyz26yl4Da-Mfzw)]() 
+|**AI-powered Music Generation Platform**
+Generate music using AI. Create unique tracks with artificial intelligence.
 
-<!--
-## ⚡ Technologies
+`Next.js · TypeScript · AI · Modal · HuggingFace · Fine-Tuning · Audio Processing`
 
-### Language :
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+---
+## 📦 Other Notable Work
+- **[sourced-flow](https://github.com/yashdev9274/sourced-flow)** – Team management platform
+- **[DocumentAndDraw](https://github.com/yashdev9274/DocumentAndDraw)** – Developer tools for design and scale
+- **[awesome-react-enaqx](https://github.com/yashdev9274/awesome-react-enaqx)** – React resources collection (19 stars)
+- **[Web3-Developer-Path](https://github.com/yashdev9274/Web3-Developer-Path)** – Complete blockchain developer roadmap
+- **[one1Letter](https://github.com/yashdev9274/one1Letter.)** – Marketing tool for developers
 
-### Libraries & Framework :
+---
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+## 📝 Latest Blog Posts
 
-###  Cloud Tools:
+- **[How Increasing Input Tokens Impacts LLM Performance](https://x.com/dew_yashtwt/status/2020178592018334175)** - An in-depth exploration of how larger context windows affect LLM reasoning, latency, and cost. Learn the trade-offs between token limits and model performance.
 
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
--->
+- **[I Stopped Using Opencode and CodeRabbit for Real-World Dev Work](https://x.com/dew_yashtwt/status/2016861902236995888)** - A candid take on why the author moved away from AI coding assistants for production development, and what tools they use instead.
 
-<!--
+- **[vLLM: The LLM Engine That Actually Treats GPUs With Respect](https://x.com/dew_yashtwt/status/2014357686226415953)** - Deep dive into vLLM's PagedAttention mechanism and how it achieves groundbreaking throughput for LLM inference while optimizing GPU memory.
 
-## 💰 Support
-<p>
-<a href='https://ko-fi.com/O4O659E32' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href='https://www.buymeacoffee.com/yashdev9174' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Yash on buymecoffee' /></a>
-</p>
+- **[Agent Skills: The Missing Layer Between Raw Models and Real Work](https://x.com/dew_yashtwt/status/2011335253143797873)** - Exploring how agent skills bridge the gap between base LLM capabilities and practical developer workflows in AI-powered tools.
 
-## 📈 Stats
+- **[Everything I Installed on My New Mac (2026)](https://x.com/dew_yashtwt/status/200XXXXXXXXXXXXXXX)** - A comprehensive setup guide covering the essential developer tools, apps, and configurations for a fresh Mac setup in 2026.
+
+- **[How to protect your app from real work attacks](https://ydew.vercel.app/blog/arcjet-with-nextjs)** - Learn how to secure your Next.js applications against common vulnerabilities using ArcJet - rate limiting, bot detection, and attack prevention made simple.
+
+---
+## 📈 GitHub Stats
 <p align="center">
-	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashdev9274&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdev9274&theme=tokyonight" />
 </p>
+---
 
+## 📫 Connect
+<a href="https://twitter.com/dew_yashtwt"><img src="https://img.shields.io/badge/-@dew_yashtwt-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yash-dewasthale"><img src="https://img.shields.io/badge/-yashdewasthale-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+<a href="https://yashdev9274.hashnode.dev/"><img src="https://img.shields.io/badge/-@yashdev9274-2962FF?style=flat-square&logo=hashnode&logoColor=white" /></a>
+<a href="mailto:yashdev9274@gmail.com"><img src="https://img.shields.io/badge/-yashdev9274@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+<a href="https://ydew.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white" /></a>
 
-
-
-### My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:STARTS -->
-
-<!--
-
-<p align="left">
-<a href="https://yashdev9274.hashnode.dev/erc-20-token-the-key-to-the-ethereum-ecosystem" title="ERC-20 Token: The Key To The Ethereum Ecosystem
-"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678078335191/b074810d-9abf-4c5c-992d-6c4259247adc.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Unlocking the Potential of ERC-20 Tokens:" width="250px" align="left" /></a>
-<a href="https://yashdev9274.hashnode.dev/erc-20-token-the-key-to-the-ethereum-ecosystem" title="https://yashdev9274.hashnode.dev/erc-20-token-the-key-to-the-ethereum-ecosystem"><strong>ERC-20 Token: The Key To The Ethereum Ecosystem
-</strong></a>
-<br/>  In this blog post, we will dive into the world of ERC-20 tokens and explore their role in the Ethereum network. We will go over what ERC-20 tokens are, and how they work. In addition, we will examine the ERC token standards as well as the most commonly used ERC-20 tokens. </p> <br/> <br/>
-
-
-<p align="left">
-<a href="https://yashdev9274.hashnode.dev/the-power-of-community-how-collaboration-and-open-source-helped-me-thrive" title="The Power of Community: How Collaboration and Open Source Helped Me Thrive"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672491858109/3af8a868-05de-4732-9f9f-d45a44f83e94.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="How collaboration helped me find my passion" width="250px" align="left" /></a>
-<a href="https://yashdev9274.hashnode.dev/the-power-of-community-how-collaboration-and-open-source-helped-me-thrive" title="https://yashdev9274.hashnode.dev/the-power-of-community-how-collaboration-and-open-source-helped-me-thrive"><strong>The Power of Community: How Collaboration and Open Source Helped Me Thrive</strong></a>
-<br/> Open source and collaboration have played a significant role in the growth and development of my journey. Open source refers to the practice of sharing and collaborating on the development of software and other digital products, with the source code freely available for anyone to use, modify, and distribute.  </p> <br/> <br/>
-
-<!--
-<p align="left">
-<a href="https://yashdev9274.hashnode.dev/navigating-the-complexities-of-ai-and-ml" title="Navigating the Complexities of AI and ML"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671199369234/eyD6bt3oG.jpg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Navigating the Complexities of AI and ML" width="250px" align="left" /></a>
-<a href="https://yashdev9274.hashnode.dev/navigating-the-complexities-of-ai-and-ml" title="Navigating the Complexities of AI and ML"><strong>Navigating the Complexities of AI and ML</strong></a>
-<br/> Open source and collaboration have played a significant role in the growth and development of my journey. Open source refers to the practice of sharing and collaborating on the development of software and other digital products, with the source code freely available for anyone to use, modify, and distribute.  </p> <br/> <br/>
-
-
-<p align="left">
-<a href="https://yashdev9274.hashnode.dev/what-are-blockchain-bridges" title="What are Blockchain Bridges?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1668615896448/vHGyeL2-T.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="What are Blockchain Bridges?
-" width="250px" align="left" /></a>
-<a href="https://yashdev9274.hashnode.dev/what-are-blockchain-bridges" title="What are Blockchain Bridges?
-"><strong>What are Blockchain Bridges?</strong></a>
-<br/> Open source and collaboration have played a significant role in the growth and development of my journey. Open source refers to the practice of sharing and collaborating on the development of software and other digital products, with the source code freely available for anyone to use, modify, and distribute.  </p> <br/> <br/>
-
-<!-- <p align="center"><a href="https://yashdev9274.hashnode.dev/"><img src="https://user-images.githubusercontent.com/51878265/210104338-3ffcc1b8-c966-405b-8958-7ece2e122723.png"></a></p> -->
-
-
-
-<!-- HASHNODE_BLOG:ENDS -->
-
-
-
-
-
-
-
-
+---
+## 🧠 What I'm Doing
+- Building AI-powered developer tools at Supercode
+- Growing LaminarFlow as an open-source fintech solution
+- Contributing to open-source through Devdocs
+- Learning and exploring new AI/ML technologies
+---
+## 💰 Support
+<a href='https://ko-fi.com/O4O659E32' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://www.buymeacoffee.com/yashdev9174' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Yash on buymecoffee' /></a>
+---
+*Building the future, one commit at a time.*
