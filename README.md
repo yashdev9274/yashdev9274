@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Yash
+## 👋 Hi, I'm Yash Dewasthale
 **Founder & Builder** | 23 yo Software Developer from India
 Building tools that make developers more productive. 
 
