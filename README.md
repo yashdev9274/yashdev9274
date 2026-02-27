@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Yash Dewasthale
-**Founder & Builder** | 23 yo Software Developer from India
+**Founder & Builder** | 23 yo AI Software Developer from India
 Building tools that make developers more productive. 
 
 Currently focused on AI-powered developer tools and open-source infrastructure.
