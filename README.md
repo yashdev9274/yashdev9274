@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Yash Dewasthale
-**Founder & Builder** | 23 yo Software Developer from India
+**Founder & Builder** | 23 yo AI Software Developer from India
 Building tools that make developers more productive. 
 
-Currently focused on AI-powered developer tools and open-source infrastructure.
+Currently focused on AI-powered developer tools and open-source infrastructure, and raising funds. I've also built LaminarFlow-an ai native intelligent layer.
 <!--![m6](https://github.com/user-attachments/assets/baeeaab2-5451-4fa8-8bb5-944ecbff97a4)-->
 
 <!--</td><td valign="top" width="30%">-->
