@@ -11,7 +11,7 @@ Currently focused on AI-powered developer tools and open-source infrastructure, 
 
 - **Languages:** TypeScript, JavaScript, Rust, Python, GO
 - **Frontend:** Next.js, React, Tailwind CSS
-- **Backend:** Node.js, PostgreSQL, Prisma
+- **Backend:** Node.js, PostgreSQL, Prisma  
 - **Tools:** Docker, Git, Turborepo, Pinecone
 ---
 ## 🚀 Recent Products and Work
@@ -33,7 +33,7 @@ Work with superCli directly in your codebase. Build, debug, and ship from your t
 **AI-native Open-source Fintech Platform**
 A modern, powerful, and affordable platform to manage your business' financial workflow.
 
-`Next.js · TypeScript · Prisma · PostgreSQL · AI-powered`
+`Next.js · TypeScript · Prisma · PostgreSQL · AI-powered · Mastra · Elevenlabs`
 
 ---
 ### [Devdocs](https://github.com/yashdev9274/devdoc)
