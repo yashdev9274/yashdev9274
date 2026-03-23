@@ -7,12 +7,13 @@ Currently focused on AI-powered developer tools and open-source infrastructure, 
 
 <!--</td><td valign="top" width="30%">-->
 
-## 🛠️ Tech Stack
+## 🛠️ Skill
 
 - **Languages:** TypeScript, JavaScript, Rust, Python, GO
 - **Frontend:** Next.js, React, Tailwind CSS
 - **Backend:** Node.js, PostgreSQL, Prisma  
-- **Tools:** Docker, Git, Turborepo, Pinecone
+- **Tools:** Docker, Git, Turborepo, Pinecone, LangChain
+- **AI Research:** FineTuning
 ---
 ## 🚀 Recent Products and Work
 
